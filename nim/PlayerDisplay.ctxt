@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=taken
+comment0.target=void\ showMove(int)
+comment0.text=\n\ Visualise\ le\ nombre\ d'allumettes\ prise\ par\ le\ joueur\n\ @param\ taken\ nombre\ d'allumettes\ prises\ \ \n
+comment1.params=
+comment1.target=void\ showPlayer()
+comment1.text=\n\ Visualise\ l'entr\u00E9e\ du\ joueur\ dans\ la\ partie\n
+comment2.params=
+comment2.target=void\ showWinner()
+comment2.text=\n\ Visualise\ le\ joueur\ gagnant\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DumbRobotPlayer
+comment0.text=\r\n\ Robot\ prenant\ toujours\ un\ nombre\ constant\ d'allumettes\r\n
+comment1.params=n
+comment1.target=DumbRobotPlayer(int)
+comment1.text=\r\n\ Robot\ \u00E0\ nombre\ d'allumettes\ retir\u00E9\ constant\r\n\ @param\ n\ nb\ d'allumettes\ prises\ syst\u00E9matiquement\ (>0\ et\ <4)\r\n
+comment2.params=m
+comment2.target=int\ move(int)
+comment2.text=\r\n\ Choix\ du\ nombre\ d'allumettes\ \u00E0\ retirer\r\n\ Le\ maximum\ possible\ pour\ cette\ strat\u00E9gie\ de\ jeu\r\n\ @param\ m\ le\ nombre\ d'allumettes\ restantes\r\n\ @return\ le\ nombre\ d'allumettes\ choisi\ (>0\ et\ <4)\r\n
+numComments=3

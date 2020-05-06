@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomRobotPlayer
+comment1.params=
+comment1.target=RandomRobotPlayer()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ RandomRobotPlayer\r\n
+comment2.params=m
+comment2.target=int\ move(int)
+comment2.text=\r\n\ Choix\ du\ nombre\ d'allumettes\ \u00E0\ retirer\r\n\ Un\ nombre\ al\u00E9atoire\ \u00E0\ chaque\ tour\r\n\r\n\ @param\ \ m\ \ \ le\ nombre\ d'allumettes\ restant\r\n\ @return\ un\ nombre\ al\u00E9atoire\ entre\ 1\ et\ 3\r\n
+numComments=3

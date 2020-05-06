@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Jeu\ des\ 21\ allumettes\r\n\ G\u00E8re\ une\ partie\ entre\ deux\ joueurs\ en\ les\ faisant\ jouer\ tour\ \u00E0\ tour.\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Cr\u00E9ation\ et\ initialisation\ d'une\ nouvelle\ partie\r\n
+comment2.params=p
+comment2.target=void\ addPlayer(Player)
+comment2.text=\r\n\ Inscrit\ un\ joueur\ \u00E0\ la\ partie\r\n\ @param\ p\ joueur\ \u00E0\ inscrire\r\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\r\n\ Fait\ jouer\ chaque\ joueur\ tour\ \u00E0\ tour\r\n\ tant\ qu'il\ reste\ plus\ d'une\ allumette.\r\n\ Affiche\ le\ nom\ du\ gagnant.\r\n
+comment4.params=
+comment4.target=int\ nextTurn()
+comment4.text=\r\n\ Num\u00E9ro\ du\ joueur\ suivant\r\n\ @return\ le\ num\u00E9ro\ dans\ la\ liste\ du\ prochain\ joueur\r\n
+comment5.params=argv
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Test\ du\ programme\ avec\ deux\ joueurs\ "dumb\ robot"\r\n
+comment6.params=
+comment6.target=void\ restart()
+comment6.text=\r\n\ r\u00E9initialise\ la\ partie\ pour\ en\ lancer\ rapidement\ une\ nouvelle\ (ie.\ remet\ le\ nombre\ d'allumettes\ \u00E0\ 21)\r\n
+numComments=7

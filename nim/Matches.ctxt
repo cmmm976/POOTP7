@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Matches(int)
+comment0.text=\n\ Construction\ du\ tas\ d'allumettes\n\ @param\ n\ nombre\ initial\ d'allumettes\n
+comment1.params=x
+comment1.target=void\ takes(int)
+comment1.text=\n\ Retire\ des\ allumettes\ au\ tas\n\ @param\ x\ nombre\ d'allumettes\ retir\u00E9es\n
+comment2.params=
+comment2.target=int\ quantity()
+comment2.text=\n\ Nombre\ d'allumettes\ dans\ le\ tas\n\ @return\ le\ nombre\ d'allumettes\ dans\ le\ tas\n
+comment3.params=
+comment3.target=void\ showQuantity()
+comment3.text=\n\ Visualise\ le\ nombre\ d'allumettes\ dans\ le\ tas\n
+numComments=4

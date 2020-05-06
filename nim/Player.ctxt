@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ D\u00E9cris\ un\ joueur\ g\u00E9n\u00E9rique\r\n\r\n\ @author\ \ Charles\r\n\ @version\ 0.1\r\n
+comment1.params=m
+comment1.target=int\ move(int)
+comment1.text=\r\n\ Permet\ de\ retirer\ un\ certain\ nombre\ d'allumettes\r\n\r\n\ @param\ \ m\ \ \ \ nombre\ d'allumettes\ restantes\r\n\ @return\ nombre\ d'allumettes\ choisi\ (\u00E0\ d\u00E9finir\ selon\ la\ strat\u00E9gie)\r\n
+comment2.params=
+comment2.target=void\ showWinner()
+comment2.text=\r\n\ Visualise\ ce\ joueur\ comme\ le\ gagnant\r\n
+comment3.params=taken
+comment3.target=void\ showMove(int)
+comment3.text=\r\n\ Visualise\ le\ nombre\ d'allumettes\ retir\u00E9es\r\n\ @param\ le\ nombre\ d'allumettes\ retir\u00E9es\r\n
+comment4.params=
+comment4.target=void\ showPlayer()
+comment4.text=\r\n\ Visualise\ l'entr\u00E9e\ du\ joueur\ dans\ la\ partie\r\n
+numComments=5

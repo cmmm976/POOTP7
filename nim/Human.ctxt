@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Human
+comment0.text=\r\n\ Cette\ classe\ d\u00E9crit\ un\ joueur\ humain\ (vous\ \!\ \:))\r\n\r\n\ @author\ Charles-Meldhine\ Madi\ Mnemoi\r\n\ @version\ 28/11/2019\r\n
+comment1.params=name
+comment1.target=Human(java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Human,\ prend\ son\ nom\ comme\ argument\r\n
+comment2.params=m
+comment2.target=int\ move(int)
+comment2.text=\r\n\ Choix\ du\ nombre\ d'allumettes\ \u00E0\ retirer\r\n\ S\u00E9lectionn\u00E9\ par\ l'utilisateur\r\n\ @param\ m\ le\ nombre\ d'allumettes\ restantes\r\n\ @return\ takes\ le\ nombre\ d'allumettes\ choisi\ par\ l'utilisateur\r\n
+numComments=3

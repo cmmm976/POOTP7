@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BestRobotPlayer
+comment0.text=\r\n\ Cette\ classe\ impl\u00E9mente\ un\ robot\ imbattable.\r\n\r\n\ @author\ Charles-Meldhine\ Madi\ Mnemoi\r\n\ @version\ 28/11/2019\r\n
+comment1.params=
+comment1.target=BestRobotPlayer()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ BestRobotPlayer\r\n
+comment2.params=m
+comment2.target=int\ move(int)
+comment2.text=\r\n\ Permet\ de\ retirer\ un\ certain\ nombre\ d'allumettes\r\n\r\n\ @param\ \ m\ \ \ \ nombre\ d'allumettes\ restantes\r\n\ @return\ takes\ \ \ \ tel\ que\ m-takes\ est\ congru\ \u00E0\ 1\ modulo\ 4\ \r\n
+numComments=3

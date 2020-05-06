@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SmartRandomRobotPlayer
+comment0.text=\r\n\ Ce\ robot\ prend\ un\ nombre\ d'allumettes\ al\u00E9atorie\ \u00E0\ chaque\ tour,\ sauf\ quand\ lil\ reste\ moins\ de\ 4\ allumettes\r\n\r\n\ @author\ Charles\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=SmartRandomRobotPlayer()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ SmartRandomRobotPlayer\r\n
+comment2.params=m
+comment2.target=int\ move(int)
+comment2.text=\r\n\ Choix\ du\ nombre\ d'allumettes\ \u00E0\ retirer\r\n\ Un\ nombre\ al\u00E9atoire\ \u00E0\ chaque\ tour\ sauf\ s'il\ reste\ moins\ de\ 4\ allumettes\r\n\r\n\ @param\ \ m\ \ \ le\ nombre\ d'allumettes\ restante\r\n\ @return\ takes\ un\ nombre\ al\u00E9atoire\ sauf\ au\ dernier\ tour\r\n
+numComments=3

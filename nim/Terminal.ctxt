@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Terminal()
+comment0.text=\n\ Initialisation\ d'un\ terminal\ de\ lecture\ au\ clavier\n\n
+comment1.params=
+comment1.target=java.lang.String\ readString()
+comment1.text=\n\ Lecture\ d'une\ chaine\ de\ caract\u00E8res\n\ @return\ la\ chaine\ lue\n
+comment2.params=
+comment2.target=double\ readDouble()
+comment2.text=\ \n\ Lecture\ d'un\ nombre\ r\u00E9el\n\ @return\ le\ nombre\ lu\n
+comment3.params=
+comment3.target=int\ readInt()
+comment3.text=\n\ Lecture\ d'un\ entier\n\ @return\ l'entier\ lu\n
+numComments=4
